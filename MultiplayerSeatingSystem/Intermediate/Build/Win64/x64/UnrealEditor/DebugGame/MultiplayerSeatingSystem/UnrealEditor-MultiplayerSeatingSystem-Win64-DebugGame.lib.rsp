@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSeatingSystem-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Intermediate\Build\Win64\x64\MultiplayerTestEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\Module.MultiplayerSeatingSystem.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\MultiplayerSeatingSystem.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\CouchActor.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\CharacterSeatingComponent.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\SeatableObjectComponent.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\SeatingInteractionWidget.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\Default.rc2.res"
+/OUT:"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSeatingSystem\UnrealEditor-MultiplayerSeatingSystem-Win64-DebugGame.lib"

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiplayerSeatingSystem.cpp.obj": [
+			"CharacterSeatingComponent.gen.cpp.obj",
+			"CouchActor.gen.cpp.obj",
+			"MultiplayerSeatingSystem.init.gen.cpp.obj",
+			"SeatableObjectComponent.gen.cpp.obj",
+			"SeatingInteractionWidget.gen.cpp.obj",
+			"CouchActor.cpp.obj",
+			"CharacterSeatingComponent.cpp.obj",
+			"SeatableObjectComponent.cpp.obj",
+			"MultiplayerSeatingSystem.cpp.obj",
+			"SeatingInteractionWidget.cpp.obj"
+		]
+	}
+}

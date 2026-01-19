@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\source\\multiplayerseatingsystem\\private\\actors\\couchactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\intermediate\\build\\win64\\x64\\multiplayertesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerseatingsystem\\definitions.multiplayerseatingsystem.h",
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\source\\multiplayerseatingsystem\\public\\actors\\couchactor.h",
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerseatingsystem\\uht\\couchactor.generated.h",
+            "d:\\epicgames\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "d:\\epicgames\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\source\\multiplayerseatingsystem\\public\\components\\seatableobjectcomponent.h",
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerseatingsystem\\uht\\seatableobjectcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

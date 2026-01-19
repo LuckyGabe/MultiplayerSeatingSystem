@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\source\\multiplayerseatingsystem\\private\\multiplayerseatingsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\intermediate\\build\\win64\\x64\\multiplayertesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerseatingsystem\\definitions.multiplayerseatingsystem.h",
+            "d:\\temp\\lusionworld\\multiplayertest_original\\multiplayertest\\plugins\\multiplayerseatingsystem\\source\\multiplayerseatingsystem\\public\\multiplayerseatingsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

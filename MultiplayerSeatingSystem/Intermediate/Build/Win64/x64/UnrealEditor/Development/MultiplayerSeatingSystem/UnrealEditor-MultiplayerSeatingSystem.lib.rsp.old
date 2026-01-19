@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSeatingSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Intermediate\Build\Win64\x64\MultiplayerTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSeatingSystem\MultiplayerSeatingSystem.cpp.obj"
+"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSeatingSystem\Default.rc2.res"
+/OUT:"D:\TEMP\lusionworld\MultiplayerTest_Original\MultiplayerTest\Plugins\MultiplayerSeatingSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSeatingSystem\UnrealEditor-MultiplayerSeatingSystem.lib"
